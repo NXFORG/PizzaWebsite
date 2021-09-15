@@ -9,14 +9,14 @@ body {
 
 }
 
-p {
 
-}
 
 img {
-    display: inline-block
-    float: none;
+    
     width:  250px;
     height: 250px;
     object-fit: cover;
+}
+.imgButton{
+    text-align:center;
 }
